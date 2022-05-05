@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hei!
+
+- 👋 Jeg jobber som leder for systemutvikling i [Haugaland Kraft](https://hkraft.no). 
+- 👨🏻‍💻 Det er dessverre sjelden jeg rekker å bygge noe av egne prosjekter, men [kom gjerne innom på jobb](https://github.com/hkraftno).
+- 📫 Du kontakter meg enklest via [LinkedIn](https://www.linkedin.com/in/phareim/) eller [Twitter](https://twitter.com/phareim).
+ 
 
 <!--
 **phareim/phareim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
