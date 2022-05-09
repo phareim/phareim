@@ -1,7 +1,7 @@
 ### Hei!
 
-- 👋 Jeg jobber som leder for systemutvikling i [Haugaland Kraft](https://hkraft.no). 
-- 👨🏻‍💻 Det er dessverre sjelden jeg rekker å bygge på egne prosjekter, men [kom gjerne innom på jobb](https://github.com/hkraftno).
+- 👋 Jobber som leder for systemutvikling i [Haugaland Kraft](https://hkraft.no). 
+- 👨🏻‍💻 ..dessverre sjelden jeg rekker å bygge på egne prosjekter, men [kom gjerne innom på jobb](https://github.com/hkraftno).
 - 📫 Du kontakter meg enklest via [LinkedIn](https://www.linkedin.com/in/phareim/) eller [Twitter](https://twitter.com/phareim).
  
 
