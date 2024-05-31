@@ -1,7 +1,7 @@
 ### Hei!
 
-- 👋 Jobber som leder for systemutvikling i [Haugaland Kraft](https://hkraft.no). 
-- 👨🏻‍💻 ..dessverre sjelden jeg rekker å bygge på egne prosjekter, men [kom gjerne innom på jobb](https://github.com/hkraftno).
+- 👋 Jobber som fagtjener og konsulent ved [Miles' Haugesund-kontor](https://miles.no). 
+- 👨🏻‍💻 Synes det er gøy å plukke på egne prosjekter, men [kom gjerne innom på jobb](https://github.com/miles-no).
 - 📫 Du kontakter meg enklest via [LinkedIn](https://www.linkedin.com/in/phareim/) eller [Twitter](https://twitter.com/phareim).
  
 
