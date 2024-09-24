@@ -2,8 +2,8 @@
 
 - 👋 Jobber som fagtjener og konsulent ved [Miles' Haugesund-kontor](https://miles.no). 
 - 👨🏻‍💻 Synes det er gøy å plukke på egne prosjekter, men [kom gjerne innom på jobb](https://github.com/miles-no).
-- 📫 Du kontakter meg enklest via [LinkedIn](https://www.linkedin.com/in/phareim/) eller [Twitter](https://twitter.com/phareim).
- 
+- 📫 Du kontakter meg enklest via [LinkedIn](https://www.linkedin.com/in/phareim/) eller ~[Twitter](https://twitter.com/phareim)~ [X](https://x.com/phareim).
+- 🎨 Når jeg ikke programmerer noe annet, lager jeg unyttig kunst på [phareim.no](https://phareim.no). 
 
 <!--
 **phareim/phareim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
