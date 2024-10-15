@@ -1,9 +1,10 @@
-### Hei!
+### Hello!
 
-- 👋 Jobber som fagtjener og konsulent ved [Miles' Haugesund-kontor](https://miles.no). 
-- 👨🏻‍💻 Synes det er gøy å plukke på egne prosjekter, men [kom gjerne innom på jobb](https://github.com/miles-no).
-- 📫 Du kontakter meg enklest via [LinkedIn](https://www.linkedin.com/in/phareim/) eller ~[Twitter](https://twitter.com/phareim)~ [X](https://x.com/phareim).
-- 🎨 Når jeg ikke programmerer noe annet, lager jeg unyttig kunst på [phareim.no](https://phareim.no). 
+- 👋 I work as the Knowledge Servant at [Miles' Haugesund office](https://miles.no). 
+- 👨🏻‍💻 Loves to do projects on my own, but [most of my productive hours is spent at work](https://github.com/miles-no).
+- 📫 The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/phareim/) or ~[Twitter](https://twitter.com/phareim)~ [X](https://x.com/phareim).
+- 🎨 When I'm not programming something at work, I make useless art at [phareim.no](https://phareim.no).
+- 🕴🏻 If you need someone to lead your Development Team or your R&D-projects, [I might be what your are looking for](https://www.linkedin.com/in/phareim/).
 
 <!--
 **phareim/phareim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
