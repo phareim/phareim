@@ -1,7 +1,7 @@
 ### Hello!
 
 - 👋 I work as a Knowledge Servant at [Miles' Haugesund office](https://miles.no). 
-- 👨🏻‍💻 Loves to do projects on my own, but [most of my productive hours is spent at work](https://github.com/miles-no).
+- 👨🏻‍💻 Love to do projects on my own, but [most of my productive hours is spent at work](https://github.com/miles-no).
 - 📫 The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/phareim/) or ~[Twitter](https://twitter.com/phareim)~ [X](https://x.com/phareim).
 - 🎨 When I'm not programming something at work, I make useless art at [phareim.no](https://phareim.no).
 - 🕴🏻 If you need someone to lead your Development Team or your R&D-projects, [I might be what your are looking for](https://www.linkedin.com/in/phareim/).
