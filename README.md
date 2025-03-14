@@ -1,6 +1,6 @@
 ### Hello!
 
-- 👋 I work as a Knowledge Servant at [Miles' Haugesund office](https://miles.no). 
+- 👋 I work as a Knowledge Servant at [Miles' Haugesund office](https://miles.no). Aspiring vibe-coder at night.
 - 👨🏻‍💻 Love to do projects on my own, but [most of my productive hours is spent at work](https://github.com/miles-no).
 - 🤖 Mildy obsessing with AI and [AI coding tools](https://www.cursor.com/).
 - 📫 The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/phareim/) or ~[Twitter](https://twitter.com/phareim)~ ~[X](https://x.com/phareim)~ [BlueSky](https://bsky.app/profile/phareim.no).
