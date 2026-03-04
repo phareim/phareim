@@ -2,7 +2,7 @@
 
 - 👋 I work as a Knowledge Servant at [Miles' Haugesund office](https://miles.no). ~Aspiring~ Vibe-coder at night.
 - 👨🏻‍💻 Love to do projects on my own, but [most of my productive hours is spent at work](https://github.com/miles-no).
-- 🤖 Mildy obsessing with AI and [AI coding tools](https://www.cursor.com/).
+- 🤖 Mildy obsessing with AI and [AI Coding Tools](https://github.com/anthropics/claude-code).
 - 📫 The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/phareim/), [X](https://x.com/phareim), [Threads](https://www.threads.com/@phareim) or [BlueSky](https://bsky.app/profile/phareim.no).
 - 🎨 When I'm not programming something at work, I make useless art at [phareim.no](https://phareim.no).
 - 🕴🏻 If you need someone to lead your Development Team or your R&D-projects, [I might be what your are looking for](https://www.linkedin.com/in/phareim/).
