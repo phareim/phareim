@@ -1,3 +1,5 @@
+<img src="header.svg" alt="" width="100%"/>
+
 ### Hello!
 
 - 👋 I work as a Knowledge Servant at [Miles' Haugesund office](https://miles.no). ~Aspiring~ Vibe-coder at night.

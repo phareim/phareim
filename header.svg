@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%">
+  <defs>
+    <style>
+      @keyframes twinkle1 { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+      @keyframes twinkle2 { 0%, 100% { opacity: 0.8; } 50% { opacity: 0.2; } }
+      @keyframes twinkle3 { 0%, 100% { opacity: 0.5; } 50% { opacity: 0.9; } }
+      @keyframes drift { 0% { transform: translateX(0); } 100% { transform: translateX(-30px); } }
+      .star { fill: #fff; }
+      .star-blue { fill: rgb(200,220,255); }
+      .star-amber { fill: rgb(255,230,180); }
+      .star-orange { fill: rgb(255,200,150); }
+      .star-red { fill: rgb(255,180,180); }
+      .star-lavender { fill: rgb(220,200,255); }
+      .t1 { animation: twinkle1 3s ease-in-out infinite; }
+      .t2 { animation: twinkle2 4s ease-in-out infinite; }
+      .t3 { animation: twinkle3 5s ease-in-out infinite; }
+      .d1 { animation: drift 20s linear infinite; }
+      .d2 { animation: drift 30s linear infinite; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="#0a0a0f"/>
+  <!-- stars layer 1 - small distant -->
+  <g class="d2">
+    <circle cx="50" cy="30" r="0.6" class="star t1" opacity="0.5"/>
+    <circle cx="120" cy="80" r="0.4" class="star t2" opacity="0.4"/>
+    <circle cx="200" cy="150" r="0.5" class="star-blue t3" opacity="0.6"/>
+    <circle cx="280" cy="45" r="0.3" class="star t1" opacity="0.3"/>
+    <circle cx="350" cy="200" r="0.6" class="star t2" opacity="0.5"/>
+    <circle cx="420" cy="120" r="0.4" class="star-lavender t3" opacity="0.4"/>
+    <circle cx="500" cy="60" r="0.5" class="star t1" opacity="0.6"/>
+    <circle cx="570" cy="250" r="0.3" class="star-blue t2" opacity="0.3"/>
+    <circle cx="650" cy="170" r="0.6" class="star t3" opacity="0.5"/>
+    <circle cx="720" cy="20" r="0.4" class="star t1" opacity="0.4"/>
+    <circle cx="800" cy="90" r="0.5" class="star-amber t2" opacity="0.6"/>
+    <circle cx="870" cy="230" r="0.3" class="star t3" opacity="0.3"/>
+    <circle cx="950" cy="140" r="0.6" class="star t1" opacity="0.5"/>
+    <circle cx="1020" cy="50" r="0.4" class="star-blue t2" opacity="0.4"/>
+    <circle cx="1100" cy="180" r="0.5" class="star t3" opacity="0.6"/>
+    <circle cx="1170" cy="270" r="0.3" class="star t1" opacity="0.3"/>
+    <circle cx="80" cy="260" r="0.5" class="star t2" opacity="0.5"/>
+    <circle cx="160" cy="210" r="0.4" class="star-red t3" opacity="0.4"/>
+    <circle cx="310" cy="280" r="0.6" class="star t1" opacity="0.5"/>
+    <circle cx="450" cy="15" r="0.4" class="star t2" opacity="0.4"/>
+    <circle cx="530" cy="190" r="0.5" class="star-blue t3" opacity="0.6"/>
+    <circle cx="680" cy="70" r="0.3" class="star t1" opacity="0.3"/>
+    <circle cx="760" cy="240" r="0.6" class="star-amber t2" opacity="0.5"/>
+    <circle cx="840" cy="160" r="0.4" class="star t3" opacity="0.4"/>
+    <circle cx="920" cy="40" r="0.5" class="star t1" opacity="0.6"/>
+    <circle cx="1060" cy="210" r="0.3" class="star-lavender t2" opacity="0.3"/>
+    <circle cx="1140" cy="100" r="0.6" class="star t3" opacity="0.5"/>
+  </g>
+  <!-- stars layer 2 - medium -->
+  <g class="d1">
+    <circle cx="90" cy="140" r="0.9" class="star t2" opacity="0.7"/>
+    <circle cx="230" cy="70" r="1.0" class="star-blue t3" opacity="0.8"/>
+    <circle cx="370" cy="240" r="0.8" class="star t1" opacity="0.6"/>
+    <circle cx="460" cy="100" r="1.1" class="star-amber t2" opacity="0.7"/>
+    <circle cx="590" cy="40" r="0.9" class="star t3" opacity="0.8"/>
+    <circle cx="710" cy="190" r="1.0" class="star-blue t1" opacity="0.6"/>
+    <circle cx="830" cy="55" r="0.8" class="star t2" opacity="0.7"/>
+    <circle cx="960" cy="260" r="1.1" class="star-orange t3" opacity="0.8"/>
+    <circle cx="1080" cy="130" r="0.9" class="star t1" opacity="0.6"/>
+    <circle cx="170" cy="280" r="1.0" class="star t2" opacity="0.7"/>
+    <circle cx="540" cy="160" r="0.8" class="star-lavender t3" opacity="0.8"/>
+    <circle cx="1150" cy="40" r="1.1" class="star t1" opacity="0.6"/>
+  </g>
+  <!-- stars layer 3 - bright foreground -->
+  <g>
+    <circle cx="150" cy="120" r="1.5" class="star t3" opacity="0.9"/>
+    <circle cx="400" cy="50" r="1.8" class="star-blue t1" opacity="0.8"/>
+    <circle cx="600" cy="220" r="1.4" class="star t2" opacity="0.9"/>
+    <circle cx="850" cy="130" r="1.6" class="star-amber t3" opacity="0.8"/>
+    <circle cx="1050" cy="80" r="1.5" class="star t1" opacity="0.9"/>
+    <circle cx="300" cy="270" r="1.3" class="star-red t2" opacity="0.7"/>
+    <circle cx="750" cy="30" r="1.7" class="star t3" opacity="0.8"/>
+    <circle cx="1000" cy="200" r="1.4" class="star-blue t1" opacity="0.9"/>
+  </g>
+</svg>
