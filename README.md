@@ -1,4 +1,4 @@
-<img src="header.svg" alt="" width="100%"/>
+<!--img src="header.svg" alt="" width="100%"/-->
 
 ### Hello!
 
